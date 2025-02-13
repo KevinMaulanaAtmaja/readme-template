@@ -11,7 +11,7 @@ We release patches for security vulnerabilities in the following versions. Pleas
 
 ## Reporting a Vulnerability
 
-If there are any vulnerabilities in **{{cookiecutter.project_name}}**, don't hesitate to _report them_.
+If there are any vulnerabilities in **project_name**, don't hesitate to _report them_.
 
 1. Use any of the [private contact addresses](https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_slug}}#support).
 2. Describe the vulnerability.
